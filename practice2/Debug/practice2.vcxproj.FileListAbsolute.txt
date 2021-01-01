@@ -1,0 +1,2 @@
+D:\编译器\练习作业\Practice\practice2\Debug\practice2.exe
+D:\编译器\练习作业\Practice\practice2\Debug\practice2.pdb
